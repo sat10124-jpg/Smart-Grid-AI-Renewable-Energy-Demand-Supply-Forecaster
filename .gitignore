@@ -1,0 +1,6 @@
+forecast.csv
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.csv
